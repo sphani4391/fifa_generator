@@ -1,2 +1,2 @@
 # fifa_generator
-Create Fifa Tournaments
+Create Fifa Tournaments between friends
