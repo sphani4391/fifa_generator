@@ -1,2 +1,3 @@
 # fifa_generator
-Create Fifa Tournaments between friends
+
+Create Fifa Tournament and sai is the worst student
